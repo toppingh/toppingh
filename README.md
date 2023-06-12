@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
@@ -39,33 +40,31 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
 </p>
-<br><br>
+<br>
 
   <h3>👇My Github Status👇</h3>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=toppingh&theme=tokyonight&show_icons=true" width="43% />
+  <img src="https://github-readme-stats.vercel.app/api?username=toppingh&theme=tokyonight&show_icons=true" width="39% />
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toppingh&exclude_repo=toppingh.github.io&layout=compact&theme=tokyonight"/>
 </a>
+<br>
 
 <!-- [![GitHub Streak] --><img src="https://github-readme-streak-stats.herokuapp.com/?user=toppingh&theme=tokyonight" width="76%"/>
                                                                                                                                                     
-<br><br>
+<br>
 
 <h3>✏ Study</h3>
 <a href="https://notion.so//8e67a0e9752f42c7955d979d7de439c3" target=_"blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a></img>
 <a href="https://velog.io/@topping12" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"></a></img><br>
-
+<br>
 <!-- [![Velog's GitHub stats]] -->
 <img width="50%" src="https://velog-readme-stats.vercel.app/api?name=topping12&color=dark">
 
-
-<br><br><br>
+<br><br>
 <h5>✉ Email</h5>
 <a href="mailto:wldmsekdms11@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=wldmsekdms11@naver.com"/></a>
 <a href="mailto:h62638901@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=wldmsekdms11@naver.com"/></a>
-
-
 
 </div>
