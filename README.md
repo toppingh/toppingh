@@ -47,7 +47,7 @@ Want to be a <b>Backend Developer</b>.
 
   <h3>👇My Github Status👇</h3>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=toppingh&theme=tokyonight&show_icons=true" width="39% />
+  <img src="https://github-readme-stats.vercel.app/api?username=toppingh&theme=tokyonight&show_icons=true" width="42% />
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toppingh&exclude_repo=toppingh.github.io&layout=compact&theme=tokyonight"/>
