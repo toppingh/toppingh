@@ -17,10 +17,13 @@ Here are some ideas to get you started:
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=This%20is%20Topping's%20GitHub%20📌&animation=twinkling&fontSize=30&fontAlignY=30&fontAlign=75&height=150)
   
- <p>
- 
-   Interested in <b>Python, Django, Database</b>.<br>
-   Want to be a <b>Backend Developer</b>.
+<p>
+Interested in <b>Python, Django, Database</b>.<br>
+Want to be a <b>Backend Developer</b>.
+<br><br>
+<a href="https://notion.so//8e67a0e9752f42c7955d979d7de439c3" target=_"blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"></a></img>
+&nbsp<a href="https://velog.io/@topping12" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"></a></img>
+</p>
  
 <h4>💡 Stack</h4>
 <p>
@@ -51,20 +54,7 @@ Here are some ideas to get you started:
 </a>
 <br>
 
-<!-- [![GitHub Streak] --><img src="https://github-readme-streak-stats.herokuapp.com/?user=toppingh&theme=tokyonight" width="76%"/>
+<!-- [![GitHub Streak] --><img src="https://github-readme-streak-stats.herokuapp.com/?user=toppingh&theme=tokyonight" width="69%"/>
                                                                                                                                                     
-<br>
-
-<h3>✏ Study</h3>
-<a href="https://notion.so//8e67a0e9752f42c7955d979d7de439c3" target=_"blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a></img>
-<a href="https://velog.io/@topping12" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"></a></img><br>
-<br>
-<!-- [![Velog's GitHub stats]] -->
-<img width="50%" src="https://velog-readme-stats.vercel.app/api?name=topping12&color=dark">
-
-<br><br>
-<h5>✉ Email</h5>
-<a href="mailto:wldmsekdms11@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=wldmsekdms11@naver.com"/></a>
-<a href="mailto:h62638901@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=wldmsekdms11@naver.com"/></a>
 
 </div>
