@@ -46,8 +46,6 @@ Want to be a <b>Backend Developer</b>.
 <br>
 
 
-
-<!-- [![GitHub Streak] --><img src="https://github-readme-streak-stats.herokuapp.com/?user=toppingh&theme=tokyonight" width="69%"/>
                                                                                                                                                     
 
 </div>
