@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <div align="left">  
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=This%20is%20Topping's%20GitHub%20📌&animation=twinkling&fontSize=30&fontAlignY=30&fontAlign=75&height=150)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Topping's%20GitHub%20📌&animation=twinkling&fontSize=30&fontAlignY=30&fontAlign=75&height=150)
   
 <p>
 <h3>Want to be a <strong><i>Backend Developer💻</i></strong></h3>
