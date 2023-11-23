@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=This%20is%20Topping's%20GitHub%20📌&animation=twinkling&fontSize=30&fontAlignY=30&fontAlign=75&height=150)
   
 <p>
-Interested in <b>Python, Django, Database</b>.<br>
-Want to be a <b>Backend Developer</b>.
+<h3>Want to be a <strong><i>Backend Developer💻</i></strong></h3>
 <br><br>
 <a href="https://notion.so//8e67a0e9752f42c7955d979d7de439c3" target=_"blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"></a></img>
 &nbsp<a href="https://velog.io/@topping12" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"></a></img>
