@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <p>
 <h3>Want to be a <strong><i>Backend Developer💻</i></strong></h3>
 <br><br>
+<h4>📝 Blog</h4>
 <a href="https://notion.so//8e67a0e9752f42c7955d979d7de439c3" target=_"blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"></a></img>
 &nbsp<a href="https://velog.io/@topping12" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"></a></img>
 </p>
